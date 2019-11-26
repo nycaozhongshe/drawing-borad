@@ -1,0 +1,44 @@
+{
+  "id": "1529497",
+  "name": "画板",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5879468",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "eb7f",
+      "unicode_decimal": 60287
+    },
+    {
+      "icon_id": "9132899",
+      "name": "画笔",
+      "font_class": "huabi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9420157",
+      "name": "清空",
+      "font_class": "qingkong",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "10253030",
+      "name": "撤销",
+      "font_class": "chexiao",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "10550045",
+      "name": "橡皮",
+      "font_class": "xiangpi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}
